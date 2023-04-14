@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:sttaf_hello
+chown -h vincent:sttaf _hello
