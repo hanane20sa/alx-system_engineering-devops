@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/passwd
+echo '2-hellofile' /etc/passwd
